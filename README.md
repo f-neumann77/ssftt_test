@@ -1,8 +1,13 @@
 # ssftt_test
 Validation SSFTT on pushbroom HS data
 
-Test data can be download from [here](https://storage.ai.ssau.ru/s/27ff2tYjf9nxEKx?path=%2Fdata%2Fdata%2Ftablet)
+Data can be download from [here](https://storage.ai.ssau.ru/s/27ff2tYjf9nxEKx?path=%2Fdata%2Fdata%2Ftablet)
 
+For training you must change parameters in script Tablet_train.py and after run it. 
+
+For only predict you can use SSFTT_Intro.ipynb
+
+Results:
 
 PCA for channels count: 250 -> 30
 
