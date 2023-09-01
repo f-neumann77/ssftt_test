@@ -21,3 +21,4 @@ PCA for channels count: 250 -> 30
     accuracy                         0.9893    389999
    macro avg     0.9741    0.9747    0.9740    389999
 weighted avg     0.9896    0.9893    0.9894    389999
+
