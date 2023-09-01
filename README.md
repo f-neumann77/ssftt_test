@@ -7,6 +7,8 @@ For training you must change parameters in script [Tablet_train.py](https://gith
 
 For only predict you can use [SSFTT_Intro.ipynb](https://github.com/f-neumann77/ssftt_test/blob/main/SSFTT_Intro.ipynb)
 
+### WARNING! vanilla dataloader has problem with memory. It will be fixed in later versions.
+
 Results:
 
 PCA for channels count: 250 -> 30
