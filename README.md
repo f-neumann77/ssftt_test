@@ -5,9 +5,13 @@ PCA for channels count: 250 -> 30
 
 
 96.97275762293913 Kappa accuracy (%)
+
 98.93461265285296 Overall accuracy (%)
+
 97.46899774265488 Average accuracy (%)
+
 [99.60483526 98.71820251 94.08395545] Each accuracy (%)
+
               precision    recall  f1-score   support
 
      class 1     0.9966    0.9960    0.9963    308732
