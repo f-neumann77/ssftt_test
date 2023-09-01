@@ -4,13 +4,13 @@ Validation SSFTT on pushbroom HS data
 PCA for channels count: 250 -> 30
 
 
-96.97275762293913 Kappa accuracy (%)
+96.97 Kappa accuracy (%)
 
-98.93461265285296 Overall accuracy (%)
+98.93 Overall accuracy (%)
 
-97.46899774265488 Average accuracy (%)
+97.46 Average accuracy (%)
 
-[99.60483526 98.71820251 94.08395545] Each accuracy (%)
+[99.60 98.71 94.08] Each accuracy (%)
 
               precision    recall  f1-score   support
 
