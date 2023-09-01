@@ -3,9 +3,9 @@ Validation SSFTT on pushbroom HS data
 
 Data can be download from [here](https://storage.ai.ssau.ru/s/27ff2tYjf9nxEKx?path=%2Fdata%2Fdata%2Ftablet)
 
-For training you must change parameters in script Tablet_train.py and after run it. 
+For training you must change parameters in script [Tablet_train.py](https://github.com/f-neumann77/ssftt_test/blob/main/Tablet_train.py) and after run it. 
 
-For only predict you can use SSFTT_Intro.ipynb
+For only predict you can use [SSFTT_Intro.ipynb](https://github.com/f-neumann77/ssftt_test/blob/main/SSFTT_Intro.ipynb)
 
 Results:
 
