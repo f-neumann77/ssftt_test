@@ -1,4 +1,7 @@
 # ssftt_test
+
+Original implementation [paper](https://ieeexplore.ieee.org/document/9684381) | [git](https://github.com/zgr6010/HSI_SSFTT)
+
 Validation SSFTT on pushbroom HS data
 
 Data can be download from [here](https://storage.ai.ssau.ru/s/27ff2tYjf9nxEKx?path=%2Fdata%2Fdata%2Ftablet)
